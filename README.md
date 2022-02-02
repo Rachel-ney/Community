@@ -1,5 +1,5 @@
 # Community
-Projet communautaire pour World of Warcraft
+Projet communautaire pour World of Warcraft.
 Ce projet a pour but d'aider les Guild Masters à créer et coordonner des groupes de raid de 10 à 40 joueurs.
 
 ### Développement
